@@ -5,6 +5,7 @@
 #include "graph/app.h"
 #include "probability/app.h"
 #include "calculation/app.h"
+#include "rpn/app.h"
 #include "regression/app.h"
 #include "sequence/app.h"
 #include "settings/app.h"
@@ -78,6 +79,7 @@ private:
   OnBoarding::App::Snapshot m_onBoardingSnapshot;
   Home::App::Snapshot m_homeSnapshot;
   Calculation::App::Snapshot m_calculationSnapshot;
+  Rpn::App::Snapshot m_rpnSnapshot;
   Graph::App::Snapshot m_graphSnapshot;
   Sequence::App::Snapshot m_sequenceSnapshot;
   Settings::App::Snapshot m_settingsSnapshot;

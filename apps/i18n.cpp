@@ -25,7 +25,7 @@ constexpr static char deviationSpanishDefinition[] = {Ion::Charset::SmallSigma, 
 constexpr static char deviationGermanDefinition[] = {Ion::Charset::SmallSigma, ' ', ':', ' ', 'S', 't', 'a', 'n', 'd', 'a', 'r', 'd', 'a', 'b', 'w', 'e', 'i', 'c', 'h', 'u', 'n', 'g', 0};
 constexpr static char deviationPortugueseDefinition[] = {Ion::Charset::SmallSigma, ' ', ':', ' ', 'D', 'e','s','v','i','o',' ','p','a','d','r','a','o', 0};
 
-const char * messages[240][5] {
+const char * messages[242][5] {
   {"Warning", "Attention", "Cuidado", "Achtung", "Atencao"},
   {"Confirm", "Valider", "Confirmar", "Bestatigen", "Confirmar"},
   {"Cancel", "Annuler", "Cancelar", "Abbrechen", "Cancelar"},
@@ -100,6 +100,10 @@ const char * messages[240][5] {
   /* 1.Calculation */
   {"Calculation", "Calculs", "Calculo", "Berechnung", "Calculo"},
   {"CALCULATION", "CALCULS", "CALCULO", "BERECHNUNG", "CALCULO"},
+
+  /* 1a.RPN */
+  {"RPN", "RPN", "RPN", "RPN", "RPN"},
+  {"RPN", "RPN", "RPN", "RPN", "RPN"},
 
   /* 2.Function */
   {"Functions", "Fonctions", "Funcion", "Funktionen", "Funcao"},

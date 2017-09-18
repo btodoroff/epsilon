@@ -25,6 +25,7 @@ AppsContainer::AppsContainer() :
   m_onBoardingSnapshot(),
   m_homeSnapshot(),
   m_calculationSnapshot(),
+  m_rpnSnapshot(),
   m_graphSnapshot(),
   m_sequenceSnapshot(),
   m_settingsSnapshot(),
@@ -52,6 +53,7 @@ App::Snapshot * AppsContainer::appSnapshotAtIndex(int index) {
   App::Snapshot * snapshots[] = {
     &m_homeSnapshot,
     &m_calculationSnapshot,
+    &m_rpnSnapshot,
     &m_graphSnapshot,
     &m_sequenceSnapshot,
     &m_settingsSnapshot,
