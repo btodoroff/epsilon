@@ -1,0 +1,13 @@
+<map id="Regression::CalculationController" name="Regression::CalculationController">
+<area shape="rect" id="node2" href="$classShared_1_1TabTableController.html" title="Shared::TabTableController" alt="" coords="607,67,786,93"/>
+<area shape="rect" id="node3" href="$classDynamicViewController.html" title="DynamicViewController" alt="" coords="367,5,525,32"/>
+<area shape="rect" id="node4" href="$classViewController.html" title="ViewController" alt="" coords="162,5,269,32"/>
+<area shape="rect" id="node5" href="$classResponder.html" title="Responder" alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node6" href="$classSelectableTableViewDelegate.html" title="SelectableTableViewDelegate" alt="" coords="349,56,543,83"/>
+<area shape="rect" id="node7" href="$classSelectableTableViewDataSource.html" title="SelectableTableViewDataSource" alt="" coords="340,107,552,133"/>
+<area shape="rect" id="node8" href="$classScrollViewDataSource.html" title="ScrollViewDataSource" alt="" coords="139,107,292,133"/>
+<area shape="rect" id="node9" href="$classShared_1_1RegularTableViewDataSource.html" title="Shared::RegularTableView\lDataSource" alt="" coords="609,139,785,181"/>
+<area shape="rect" id="node10" href="$classTableViewDataSource.html" title="TableViewDataSource" alt="" coords="371,157,521,184"/>
+<area shape="rect" id="node11" href="$classButtonRowDelegate.html" title="ButtonRowDelegate" alt="" coords="627,205,766,232"/>
+<area shape="rect" id="node12" href="$classAlternateEmptyViewDelegate.html" title="AlternateEmptyViewDelegate" alt="" coords="600,256,793,283"/>
+</map>

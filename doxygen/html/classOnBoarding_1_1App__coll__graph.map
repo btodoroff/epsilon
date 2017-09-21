@@ -1,0 +1,6 @@
+<map id="OnBoarding::App" name="OnBoarding::App">
+<area shape="rect" id="node2" href="$classApp.html" title="App" alt="" coords="43,247,89,273"/>
+<area shape="rect" id="node3" href="$classResponder.html" title="Responder" alt="" coords="18,5,103,32"/>
+<area shape="rect" id="node5" href="$classViewController.html" title="ViewController" alt="" coords="91,81,198,108"/>
+<area shape="rect" id="node4" href="$classModalViewController.html" title="ModalViewController" alt="" coords="83,157,225,184"/>
+</map>

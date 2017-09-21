@@ -1,0 +1,6 @@
+<map id="Settings::App" name="Settings::App">
+<area shape="rect" id="node2" href="$classApp.html" title="App" alt="" coords="33,247,79,273"/>
+<area shape="rect" id="node3" href="$classResponder.html" title="Responder" alt="" coords="8,5,93,32"/>
+<area shape="rect" id="node5" href="$classViewController.html" title="ViewController" alt="" coords="81,81,188,108"/>
+<area shape="rect" id="node4" href="$classModalViewController.html" title="ModalViewController" alt="" coords="73,157,215,184"/>
+</map>

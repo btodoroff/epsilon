@@ -1,0 +1,8 @@
+<map id="Settings::MainController" name="Settings::MainController">
+<area shape="rect" id="node2" href="$classViewController.html" title="ViewController" alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node3" href="$classResponder.html" title="Responder" alt="" coords="16,5,101,32"/>
+<area shape="rect" id="node4" href="$classListViewDataSource.html" title="ListViewDataSource" alt="" coords="136,80,277,107"/>
+<area shape="rect" id="node5" href="$classTableViewDataSource.html" title="TableViewDataSource" alt="" coords="131,5,282,32"/>
+<area shape="rect" id="node6" href="$classSelectableTableViewDataSource.html" title="SelectableTableViewDataSource" alt="" coords="302,80,514,107"/>
+<area shape="rect" id="node7" href="$classScrollViewDataSource.html" title="ScrollViewDataSource" alt="" coords="331,5,485,32"/>
+</map>

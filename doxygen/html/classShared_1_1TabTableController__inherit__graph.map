@@ -1,0 +1,17 @@
+<map id="Shared::TabTableController" name="Shared::TabTableController">
+<area shape="rect" id="node8" href="$classRegression_1_1CalculationController.html" title="Regression::CalculationController" alt="" coords="827,23,1044,49"/>
+<area shape="rect" id="node9" href="$classShared_1_1EditableCellTableViewController.html" title="Shared::EditableCellTable\lViewController" alt="" coords="849,74,1021,115"/>
+<area shape="rect" id="node16" href="$classStatistics_1_1CalculationController.html" title="Statistics::CalculationController" alt="" coords="832,140,1039,167"/>
+<area shape="rect" id="node2" href="$classDynamicViewController.html" title="DynamicViewController" alt="" coords="367,31,525,57"/>
+<area shape="rect" id="node3" href="$classViewController.html" title="ViewController" alt="" coords="162,31,269,57"/>
+<area shape="rect" id="node4" href="$classResponder.html" title="Responder" alt="" coords="5,31,91,57"/>
+<area shape="rect" id="node5" href="$classSelectableTableViewDelegate.html" title="SelectableTableViewDelegate" alt="" coords="349,81,543,108"/>
+<area shape="rect" id="node6" href="$classSelectableTableViewDataSource.html" title="SelectableTableViewDataSource" alt="" coords="340,132,552,159"/>
+<area shape="rect" id="node7" href="$classScrollViewDataSource.html" title="ScrollViewDataSource" alt="" coords="139,132,292,159"/>
+<area shape="rect" id="node10" href="$classShared_1_1StoreController.html" title="Shared::StoreController" alt="" coords="1096,56,1255,83"/>
+<area shape="rect" id="node13" href="$classShared_1_1ValuesController.html" title="Shared::ValuesController" alt="" coords="1092,107,1259,133"/>
+<area shape="rect" id="node11" href="$classRegression_1_1StoreController.html" title="Regression::StoreController" alt="" coords="1307,5,1489,32"/>
+<area shape="rect" id="node12" href="$classStatistics_1_1StoreController.html" title="Statistics::StoreController" alt="" coords="1312,56,1484,83"/>
+<area shape="rect" id="node14" href="$classGraph_1_1ValuesController.html" title="Graph::ValuesController" alt="" coords="1318,107,1478,133"/>
+<area shape="rect" id="node15" href="$classSequence_1_1ValuesController.html" title="Sequence::ValuesController" alt="" coords="1307,157,1489,184"/>
+</map>

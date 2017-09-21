@@ -1,0 +1,13 @@
+<map id="MessageTableCell" name="MessageTableCell">
+<area shape="rect" id="node5" href="$classMessageTableCellWithBuffer.html" title="MessageTableCellWithBuffer" alt="" coords="568,5,759,32"/>
+<area shape="rect" id="node6" href="$classMessageTableCellWithChevron.html" title="MessageTableCellWithChevron" alt="" coords="561,56,766,83"/>
+<area shape="rect" id="node9" href="$classMessageTableCellWithEditableText.html" title="MessageTableCellWithEditableText" alt="" coords="549,107,777,133"/>
+<area shape="rect" id="node10" href="$classMessageTableCellWithGauge.html" title="MessageTableCellWithGauge" alt="" coords="566,157,761,184"/>
+<area shape="rect" id="node11" href="$classMessageTableCellWithMessage.html" title="MessageTableCellWithMessage" alt="" coords="559,208,768,235"/>
+<area shape="rect" id="node12" href="$classMessageTableCellWithSwitch.html" title="MessageTableCellWithSwitch" alt="" coords="565,259,761,285"/>
+<area shape="rect" id="node2" href="$classTableCell.html" title="TableCell" alt="" coords="248,132,324,159"/>
+<area shape="rect" id="node3" href="$classHighlightCell.html" title="HighlightCell" alt="" coords="104,132,200,159"/>
+<area shape="rect" id="node4" href="$classView.html" title="View" alt="" coords="5,132,56,159"/>
+<area shape="rect" id="node7" href="$classMessageTableCellWithChevronAndExpression.html" title="MessageTableCellWithChevron\lAndExpression" alt="" coords="825,17,1031,58"/>
+<area shape="rect" id="node8" href="$classMessageTableCellWithChevronAndMessage.html" title="MessageTableCellWithChevron\lAndMessage" alt="" coords="825,82,1031,123"/>
+</map>

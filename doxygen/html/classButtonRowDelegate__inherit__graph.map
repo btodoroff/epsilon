@@ -1,0 +1,20 @@
+<map id="ButtonRowDelegate" name="ButtonRowDelegate">
+<area shape="rect" id="node2" href="$classRegression_1_1CalculationController.html" title="Regression::CalculationController" alt="" coords="192,19,409,45"/>
+<area shape="rect" id="node3" href="$classShared_1_1InteractiveCurveViewController.html" title="Shared::InteractiveCurve\lViewController" alt="" coords="217,70,384,111"/>
+<area shape="rect" id="node8" href="$classShared_1_1ListController.html" title="Shared::ListController" alt="" coords="227,157,375,184"/>
+<area shape="rect" id="node11" href="$classShared_1_1StoreController.html" title="Shared::StoreController" alt="" coords="221,208,380,235"/>
+<area shape="rect" id="node14" href="$classShared_1_1ValuesController.html" title="Shared::ValuesController" alt="" coords="217,259,384,285"/>
+<area shape="rect" id="node17" href="$classStatistics_1_1BoxController.html" title="Statistics::BoxController" alt="" coords="219,309,383,336"/>
+<area shape="rect" id="node18" href="$classStatistics_1_1CalculationController.html" title="Statistics::CalculationController" alt="" coords="197,360,404,387"/>
+<area shape="rect" id="node19" href="$classStatistics_1_1HistogramController.html" title="Statistics::HistogramController" alt="" coords="200,411,401,437"/>
+<area shape="rect" id="node4" href="$classRegression_1_1GraphController.html" title="Regression::GraphController" alt="" coords="470,5,657,32"/>
+<area shape="rect" id="node5" href="$classShared_1_1FunctionGraphController.html" title="Shared::FunctionGraphController" alt="" coords="457,56,669,83"/>
+<area shape="rect" id="node6" href="$classGraph_1_1GraphController.html" title="Graph::GraphController" alt="" coords="729,31,885,57"/>
+<area shape="rect" id="node7" href="$classSequence_1_1GraphController.html" title="Sequence::GraphController" alt="" coords="717,81,896,108"/>
+<area shape="rect" id="node9" href="$classGraph_1_1ListController.html" title="Graph::ListController" alt="" coords="492,107,635,133"/>
+<area shape="rect" id="node10" href="$classSequence_1_1ListController.html" title="Sequence::ListController" alt="" coords="481,157,646,184"/>
+<area shape="rect" id="node12" href="$classRegression_1_1StoreController.html" title="Regression::StoreController" alt="" coords="472,208,655,235"/>
+<area shape="rect" id="node13" href="$classStatistics_1_1StoreController.html" title="Statistics::StoreController" alt="" coords="477,259,649,285"/>
+<area shape="rect" id="node15" href="$classGraph_1_1ValuesController.html" title="Graph::ValuesController" alt="" coords="483,309,643,336"/>
+<area shape="rect" id="node16" href="$classSequence_1_1ValuesController.html" title="Sequence::ValuesController" alt="" coords="472,360,655,387"/>
+</map>

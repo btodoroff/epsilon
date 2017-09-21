@@ -1,0 +1,8 @@
+<map id="MessageTableCellWithEditableText" name="MessageTableCellWithEditableText">
+<area shape="rect" id="node2" href="$classResponder.html" title="Responder" alt="" coords="61,323,146,349"/>
+<area shape="rect" id="node3" href="$classMessageTableCell.html" title="MessageTableCell" alt="" coords="171,323,300,349"/>
+<area shape="rect" id="node4" href="$classTableCell.html" title="TableCell" alt="" coords="197,247,273,273"/>
+<area shape="rect" id="node5" href="$classHighlightCell.html" title="HighlightCell" alt="" coords="187,171,283,197"/>
+<area shape="rect" id="node6" href="$classView.html" title="View" alt="" coords="210,95,261,121"/>
+<area shape="rect" id="node7" href="$classKDRect.html" title="KDRect" alt="" coords="201,5,270,32"/>
+</map>

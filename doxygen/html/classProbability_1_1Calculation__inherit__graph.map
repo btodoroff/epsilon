@@ -1,0 +1,6 @@
+<map id="Probability::Calculation" name="Probability::Calculation">
+<area shape="rect" id="node2" href="$classProbability_1_1DiscreteCalculation.html" title="Probability::DiscreteCalculation" alt="" coords="209,5,415,32"/>
+<area shape="rect" id="node3" href="$classProbability_1_1FiniteIntegralCalculation.html" title="Probability::FiniteIntegral\lCalculation" alt="" coords="229,57,395,98"/>
+<area shape="rect" id="node4" href="$classProbability_1_1LeftIntegralCalculation.html" title="Probability::LeftIntegral\lCalculation" alt="" coords="234,122,390,163"/>
+<area shape="rect" id="node5" href="$classProbability_1_1RightIntegralCalculation.html" title="Probability::RightIntegral\lCalculation" alt="" coords="229,187,395,229"/>
+</map>

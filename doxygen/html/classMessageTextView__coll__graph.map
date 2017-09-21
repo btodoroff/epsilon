@@ -1,0 +1,5 @@
+<map id="MessageTextView" name="MessageTextView">
+<area shape="rect" id="node2" href="$classTextView.html" title="TextView" alt="" coords="32,171,108,197"/>
+<area shape="rect" id="node3" href="$classView.html" title="View" alt="" coords="45,95,95,121"/>
+<area shape="rect" id="node4" href="$classKDRect.html" title="KDRect" alt="" coords="35,5,105,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="EvenOddMessageTextCell" name="EvenOddMessageTextCell">
+<area shape="rect" id="node2" href="$classEvenOddCell.html" title="EvenOddCell" alt="" coords="5,247,104,273"/>
+<area shape="rect" id="node3" href="$classHighlightCell.html" title="HighlightCell" alt="" coords="27,171,123,197"/>
+<area shape="rect" id="node4" href="$classView.html" title="View" alt="" coords="104,95,155,121"/>
+<area shape="rect" id="node7" href="$classTextView.html" title="TextView" alt="" coords="151,171,227,197"/>
+<area shape="rect" id="node5" href="$classKDRect.html" title="KDRect" alt="" coords="95,5,164,32"/>
+<area shape="rect" id="node6" href="$classMessageTextView.html" title="MessageTextView" alt="" coords="129,247,258,273"/>
+</map>

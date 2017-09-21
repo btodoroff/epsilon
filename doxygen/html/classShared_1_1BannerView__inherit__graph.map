@@ -1,0 +1,8 @@
+<map id="Shared::BannerView" name="Shared::BannerView">
+<area shape="rect" id="node3" href="$classGraph_1_1BannerView.html" title="Graph::BannerView" alt="" coords="333,5,468,32"/>
+<area shape="rect" id="node4" href="$classRegression_1_1BannerView.html" title="Regression::BannerView" alt="" coords="317,56,484,83"/>
+<area shape="rect" id="node5" href="$classSequence_1_1BannerView.html" title="Sequence::BannerView" alt="" coords="321,107,480,133"/>
+<area shape="rect" id="node6" href="$classStatistics_1_1BoxBannerView.html" title="Statistics::BoxBannerView" alt="" coords="311,157,490,184"/>
+<area shape="rect" id="node7" href="$classStatistics_1_1HistogramBannerView.html" title="Statistics::HistogramBannerView" alt="" coords="293,208,508,235"/>
+<area shape="rect" id="node2" href="$classView.html" title="View" alt="" coords="5,107,56,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MessageTableCellWithMessage" name="MessageTableCellWithMessage">
+<area shape="rect" id="node2" href="$classMessageTableCell.html" title="MessageTableCell" alt="" coords="5,348,135,375"/>
+<area shape="rect" id="node3" href="$classTableCell.html" title="TableCell" alt="" coords="32,247,108,273"/>
+<area shape="rect" id="node4" href="$classHighlightCell.html" title="HighlightCell" alt="" coords="23,171,119,197"/>
+<area shape="rect" id="node5" href="$classView.html" title="View" alt="" coords="101,95,151,121"/>
+<area shape="rect" id="node8" href="$classTextView.html" title="TextView" alt="" coords="144,171,220,197"/>
+<area shape="rect" id="node6" href="$classKDRect.html" title="KDRect" alt="" coords="91,5,161,32"/>
+<area shape="rect" id="node7" href="$classMessageTextView.html" title="MessageTextView" alt="" coords="117,297,247,324"/>
+</map>

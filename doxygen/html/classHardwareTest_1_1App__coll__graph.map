@@ -1,0 +1,6 @@
+<map id="HardwareTest::App" name="HardwareTest::App">
+<area shape="rect" id="node2" href="$classApp.html" title="App" alt="" coords="50,247,95,273"/>
+<area shape="rect" id="node3" href="$classResponder.html" title="Responder" alt="" coords="25,5,110,32"/>
+<area shape="rect" id="node5" href="$classViewController.html" title="ViewController" alt="" coords="98,81,205,108"/>
+<area shape="rect" id="node4" href="$classModalViewController.html" title="ModalViewController" alt="" coords="89,157,232,184"/>
+</map>

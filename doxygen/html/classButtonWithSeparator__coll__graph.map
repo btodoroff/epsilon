@@ -1,0 +1,9 @@
+<map id="ButtonWithSeparator" name="ButtonWithSeparator">
+<area shape="rect" id="node2" href="$classButton.html" title="Button" alt="" coords="103,361,163,388"/>
+<area shape="rect" id="node3" href="$classHighlightCell.html" title="HighlightCell" alt="" coords="5,221,101,248"/>
+<area shape="rect" id="node4" href="$classView.html" title="View" alt="" coords="51,95,101,121"/>
+<area shape="rect" id="node8" href="$classTextView.html" title="TextView" alt="" coords="101,171,177,197"/>
+<area shape="rect" id="node5" href="$classKDRect.html" title="KDRect" alt="" coords="41,5,111,32"/>
+<area shape="rect" id="node6" href="$classResponder.html" title="Responder" alt="" coords="240,272,325,299"/>
+<area shape="rect" id="node7" href="$classMessageTextView.html" title="MessageTextView" alt="" coords="78,272,207,299"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Timer" name="Timer">
+<area shape="rect" id="node2" href="$classBacklightDimmingTimer.html" title="BacklightDimmingTimer" alt="" coords="137,5,299,32"/>
+<area shape="rect" id="node3" href="$classBatteryTimer.html" title="BatteryTimer" alt="" coords="169,56,267,83"/>
+<area shape="rect" id="node4" href="$classHardwareTest_1_1USBTestController.html" title="HardwareTest::USBTestController" alt="" coords="108,107,328,133"/>
+<area shape="rect" id="node5" href="$classLedTimer.html" title="LedTimer" alt="" coords="180,157,256,184"/>
+<area shape="rect" id="node6" href="$classOnBoarding_1_1LogoController.html" title="OnBoarding::LogoController" alt="" coords="127,208,309,235"/>
+<area shape="rect" id="node7" href="$classSuspendTimer.html" title="SuspendTimer" alt="" coords="165,259,271,285"/>
+<area shape="rect" id="node8" href="$classUSBTimer.html" title="USBTimer" alt="" coords="177,309,259,336"/>
+</map>

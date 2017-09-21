@@ -1,0 +1,10 @@
+<map id="Probability::Law" name="Probability::Law">
+<area shape="rect" id="node3" href="$classProbability_1_1OneParameterLaw.html" title="Probability::OneParameterLaw" alt="" coords="389,56,588,83"/>
+<area shape="rect" id="node6" href="$classProbability_1_1TwoParameterLaw.html" title="Probability::TwoParameterLaw" alt="" coords="389,132,588,159"/>
+<area shape="rect" id="node2" href="$classShared_1_1CurveViewRange.html" title="Shared::CurveViewRange" alt="" coords="5,107,179,133"/>
+<area shape="rect" id="node4" href="$classProbability_1_1ExponentialLaw.html" title="Probability::ExponentialLaw" alt="" coords="636,5,819,32"/>
+<area shape="rect" id="node5" href="$classProbability_1_1PoissonLaw.html" title="Probability::PoissonLaw" alt="" coords="646,56,809,83"/>
+<area shape="rect" id="node7" href="$classProbability_1_1BinomialLaw.html" title="Probability::BinomialLaw" alt="" coords="645,107,810,133"/>
+<area shape="rect" id="node8" href="$classProbability_1_1NormalLaw.html" title="Probability::NormalLaw" alt="" coords="649,157,806,184"/>
+<area shape="rect" id="node9" href="$classProbability_1_1UniformLaw.html" title="Probability::UniformLaw" alt="" coords="647,208,808,235"/>
+</map>

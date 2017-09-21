@@ -1,0 +1,12 @@
+<map id="Shared::RegularTableViewDataSource" name="Shared::RegularTableViewDataSource">
+<area shape="rect" id="node3" href="$classRegression_1_1CalculationController.html" title="Regression::CalculationController" alt="" coords="428,23,645,49"/>
+<area shape="rect" id="node4" href="$classShared_1_1EditableCellTableViewController.html" title="Shared::EditableCellTable\lViewController" alt="" coords="451,74,623,115"/>
+<area shape="rect" id="node11" href="$classStatistics_1_1CalculationController.html" title="Statistics::CalculationController" alt="" coords="433,140,640,167"/>
+<area shape="rect" id="node2" href="$classTableViewDataSource.html" title="TableViewDataSource" alt="" coords="5,81,156,108"/>
+<area shape="rect" id="node5" href="$classShared_1_1StoreController.html" title="Shared::StoreController" alt="" coords="697,56,856,83"/>
+<area shape="rect" id="node8" href="$classShared_1_1ValuesController.html" title="Shared::ValuesController" alt="" coords="693,107,860,133"/>
+<area shape="rect" id="node6" href="$classRegression_1_1StoreController.html" title="Regression::StoreController" alt="" coords="908,5,1091,32"/>
+<area shape="rect" id="node7" href="$classStatistics_1_1StoreController.html" title="Statistics::StoreController" alt="" coords="913,56,1085,83"/>
+<area shape="rect" id="node9" href="$classGraph_1_1ValuesController.html" title="Graph::ValuesController" alt="" coords="919,107,1079,133"/>
+<area shape="rect" id="node10" href="$classSequence_1_1ValuesController.html" title="Sequence::ValuesController" alt="" coords="908,157,1091,184"/>
+</map>

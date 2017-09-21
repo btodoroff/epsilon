@@ -1,0 +1,6 @@
+<map id="EXTI::MaskRegister" name="EXTI::MaskRegister">
+<area shape="rect" id="node3" href="$classEXTI_1_1EMR.html" title="EXTI::EMR" alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node4" href="$classEXTI_1_1FTSR.html" title="EXTI::FTSR" alt="" coords="121,155,215,181"/>
+<area shape="rect" id="node5" href="$classEXTI_1_1RTSR.html" title="EXTI::RTSR" alt="" coords="239,155,337,181"/>
+<area shape="rect" id="node2" href="$classRegister.html" title="Register32" alt="" coords="125,5,211,32"/>
+</map>
